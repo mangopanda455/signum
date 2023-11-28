@@ -2,7 +2,7 @@
 name = "signum-sign"
 version = "0.1.1"
 edition = "2021"
-authors = ["Graham Fielding <gfielding26@scarsdaleschools.org>"]
+authors = ["Graham Fielding <grahamfielding08@gmail.com>"]
 description = "Adds the signum function to Rust"
 readme = "README.md"
 license = "MIT"
