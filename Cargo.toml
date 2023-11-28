@@ -6,7 +6,6 @@ authors = ["Graham Fielding <gfielding26@scarsdaleschools.org>"]
 description = "Adds the signum function to Rust"
 readme = "README.md"
 license = "MIT"
-license-file = "LICENSE"
 repository = "https://github.com/mangopanda455/signum"
 documentation = "https://docs.rs/signum"
 homepage = "https://github.com/mangopanda455/signum"
