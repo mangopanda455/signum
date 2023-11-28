@@ -1,6 +1,6 @@
 [package]
 name = "signum-sign"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Graham Fielding <gfielding26@scarsdaleschools.org>"]
 description = "Adds the signum function to Rust"
