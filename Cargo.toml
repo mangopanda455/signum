@@ -1,0 +1,12 @@
+[package]
+name = "signum"
+version = "0.1.0"
+edition = "2023"
+authors = ["Graham Fielding <grahamfielding08@gmail.com>"]
+description = "Adds the signum function to Rust"
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
