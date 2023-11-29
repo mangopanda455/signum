@@ -17,3 +17,15 @@ fn main() {
     println!("{}, {}, {}", sgn(0), sgn(-2), sgn(2)); // Outputs "0, -1, 1"
 }
 ```
+
+## Heron:
+This branch also adds the Heron method of approximating the square root of a number. This method is more accurate than the Babylonian method, but is slower.
+
+## Usage:
+```rust
+use signum_sign::heron;
+
+fn main() {
+    println!("{}", heron(2.0)); // Outputs "1.414213562373095"
+}
+```
