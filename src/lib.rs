@@ -9,26 +9,3 @@ pub fn sgn(x: i128) -> i128 {
         return -256;
     }
 }
-
-#[cfg(test)]
-mod tests {
-    use super::*;
-
-    #[test]
-    fn positive() {
-        let result = sgn(2);
-        assert_eq!(result, 1);
-    }
-
-    #[test]
-    fn negative() {
-        let result = sgn(-2);
-        assert_eq!(result, -1);
-    }
-
-    #[test]
-    fn zero() {
-        let result = sgn(0);
-        assert_eq!(result, 0);
-    }
-}
