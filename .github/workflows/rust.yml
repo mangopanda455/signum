@@ -2,9 +2,9 @@ name: Rust
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "heronmethod" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "heronmethod" ]
 
 env:
   CARGO_TERM_COLOR: always
