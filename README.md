@@ -21,6 +21,8 @@ fn main() {
 ## Heron:
 This branch also adds the Heron method of approximating the square root of a number. This method is more accurate than the Babylonian method, but is slower.
 
+### THIS IS WILDLY INNEFICIENT AND IS MORE OF A PROOF OF CONCEPT THAN ANYTHING ELSE.
+
 ## Usage:
 ```rust
 use signum_sign::heron;
